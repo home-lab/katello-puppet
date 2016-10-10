@@ -1,0 +1,18 @@
+{
+  "Gemfile": "468b1ca2e2f2a7e7ca9cb55df7585cc3",
+  "LICENSE": "ac8cbe97cc453276a40f0b757f86de2a",
+  "README.markdown": "72e1328202a1fbe46ba0d122acc70328",
+  "Rakefile": "a478e0e530ebee63880726eb669be2a6",
+  "manifests/init.pp": "d2c783e548c51a44526217d1a9ecd3d0",
+  "manifests/params.pp": "ab648e47b93733259ef709c22245377b",
+  "metadata.json": "bc79115c6e1aa01152a958aade8b3c88",
+  "spec/classes/postfix_spec.rb": "26d4fc752dd81e7f1f73850ddbfdd198",
+  "spec/spec.opts": "c407193b3d9028941ef59edd114f5968",
+  "spec/spec_helper.rb": "fa2e1b130c59082a86cbc7f87375b52f",
+  "templates/main.cf.erb": "212fad6defadb8acf63da3184ccae449",
+  "tests/init.pp": "e4bfc181148afd2e74e156d82bff3267",
+  "tests/remove_sendmail.pp": "7fe9d04acb7e57ceb91b4bf938c38e59",
+  "tests/set_myorigin.pp": "353756e8835a7ffc3b80acfa80fcfd7c",
+  "tests/set_relayhost.pp": "6158e4022e8e1763c90fbe8017c700ff",
+  "tests/set_relayport.pp": "895effcb5f284d1f49a7cd89e56f3276"
+}
